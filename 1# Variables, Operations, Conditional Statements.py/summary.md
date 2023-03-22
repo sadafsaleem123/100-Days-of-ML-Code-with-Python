@@ -1,0 +1,3 @@
+I have learned about basic Python data types such as integer, string, float, boolean, tuple, list, and array. Additionally, I have also learned about creating classes in Python and performing mathematical operations such as addition, subtraction, multiplication, division, exponentiation, integer division, and modulo operation.
+
+Furthermore, I have demonstrated my knowledge by creating an instance of a class and accessing its properties using dot notation.
