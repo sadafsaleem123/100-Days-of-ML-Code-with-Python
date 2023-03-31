@@ -1,3 +1,4 @@
+import csv
 #class attribute is an attribute that belongs to the class itself but however it can also be assessed from the instance level as well
 
 class Item:
@@ -26,31 +27,22 @@ class Item:
     def apply_discount(self):
         self.price = self.price * self.pay_rate
         
+    @classmethod
+    def instantiate_from_csv(cls):
+        with open('items.csv', 'r') as f:
+            reader = csv.DictReader(f)
+            items = list(reader)
+
+        for item in items:
+            Item(
+                name=item.get('name'),
+                price=float(item.get('price')),
+                quantity=int(item.get('quantity')),
+            )
+
     #to check list all the items clearly with names mentioned we use __repr__ magic method   
     def __repr__(self):
         return f"Item('{self.name}', {self.price}, {self.quantity})"
 
 
-item_1 = Item('Phone', 20000, 2)
-
-#accessing class attribute
-item_1.apply_discount()
-#print(item_1.price)
-
-item_2 = Item('Laptop', 30000, 1)
-item_2.pay_rate = 0.5 #if to make any changes, make it in local level and not global because it will affect others as well
-item_2.apply_discount()
-#print(item_2.price) # it will still apply 20 percent discount just because of Item.pay_rate on line:22
-
-
-item1 = Item("Phone", 100, 1)
-item2 = Item("Laptop", 1000, 3)
-item3 = Item("Cable", 10, 5)
-item4 = Item("Mouse", 50, 5)
-item5 = Item("Keyboard", 75, 5)
-
-print(Item.all) #to list all the items
-
-#to print names for each list item
-for instance in Item.all:
-    print(instance.name)
+Item.instantiate_from_csv()

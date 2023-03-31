@@ -25,12 +25,14 @@ item_1 = Item('Phone', 20000, 2)
 
 #accessing class attribute
 item_1.apply_discount()
-#print(item_1.price)
+print(item_1.price)
 
 item_2 = Item('Laptop', 30000, 1)
 item_2.pay_rate = 0.8 #if to make any changes, make it in local level and not global because it will affect others as well
 item_2.apply_discount()
-print(item_2.price)
+print(item_2.price) # it will still apply 20 percent dicount just because of Item.pay_rate on line:22
+
+#To apply changes on global level it is recommended to uses self.pay_rate. Check this in third module
 
 
 

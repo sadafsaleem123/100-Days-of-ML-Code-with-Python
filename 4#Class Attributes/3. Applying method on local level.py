@@ -30,7 +30,7 @@ print(item_1.price)
 item_2 = Item('Laptop', 30000, 1)
 item_2.pay_rate = 0.5 #if to make any changes, make it in local level and not global because it will affect others as well
 item_2.apply_discount()
-print(item_2.price) # it will still apply 20 percent dicount just because of Item.pay_rate on line:22
+print(item_2.price) # it will still apply 20 percent discount just because of Item.pay_rate on line:22
 
 
 
