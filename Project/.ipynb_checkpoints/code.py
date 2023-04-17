@@ -7,17 +7,17 @@ class Parent_lib:
         pass
 
     class Numpy:
-        def find_min(self, arr):
+        def find_min(self, df):
             """
             Finds the minimum value in a numpy array.
             """
-            return np.min(arr)
+            return np.min(df)
 
-        def find_max(self, arr):
+        def find_max(self, df):
             """
             Finds the maximum value in a numpy array.
             """
-            return np.max(arr)
+            return np.max(df)
 
     class Pandas:
         def __init__(self):
@@ -47,17 +47,17 @@ class Child(Parent_lib.Numpy):
     def __init__(self):
         pass
     
-# Example usage with dataset
-df = pd.read_csv('example_data.csv')
-arr = df['column_name'].values
-child_instance = Child()
-print("Minimum value:", child_instance.find_min(arr))
-print("Maximum value:", child_instance.find_max(arr))
-print("Plotting histogram...")
-Parent_lib.Matplotlib().plot_histogram(arr)
-print("Plotting line graph...")
-Parent_lib.Matplotlib().plot_line(arr, arr**2)
 
+# now you can read the file
+df = pd.read_csv(r'C:\Users\TOSHIBA\Documents\GitHub\100-Days-of-ML-Code-with-Python\Project\.ipynb_checkpoints\dataset.csv')
+arr = df['writing_score'].values
+child_instance = Child()
+print("Minimum value:", child_instance.find_min(df))
+print("Maximum value:", child_instance.find_max(df))
+print("Plotting histogram...")
+Parent_lib.Matplotlib().plot_histogram(df)
+print("Plotting line graph...")
+Parent_lib.Matplotlib().plot_line(df, df**2)
 
 
 
