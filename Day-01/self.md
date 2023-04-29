@@ -1,4 +1,4 @@
-Here is my day-01 written article: [Demystifying AI: A Guide for Everyone ](https://link.medium.com/LrxKtZSZkyb) 
+Check my Day#01 written article that is being published on Medium: [Demystifying AI: A Guide for Everyone ](https://link.medium.com/LrxKtZSZkyb) 
 
 
 ![image](https://github.com/sadafsaleem123/100-Days-of-ML-Code-with-Python/blob/main/Day-01/1.PNG)
