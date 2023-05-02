@@ -1,6 +1,5 @@
 
-I have learned about the basics of Logistic Regression in Machine Learning. 
-Source is from:
+I have learned about the basics of Linear Regression in Machine Learning from:
 - https://www.youtube.com/watch?v=zPG4NjIkCjc
 - https://www.youtube.com/watch?v=ctoCtba2BDY
 
