@@ -55,7 +55,8 @@ The tasks are divided in 14 weeks and the summary for each week task is:
 2. https://www.youtube.com/watch?v=HVXime0nQeI&ab_channel=StatQuestwithJoshStarmer 
 
 **Week-08**  (Day#49 to Day#56)
-
+- SVM: https://www.youtube.com/playlist?list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL
+- Practical ML with Sklearn: https://www.youtube.com/watch?v=pqNCD_5r0IU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=20&ab_channel=freeCodeCamp.org
 
 **Week-09**  (Day#57 to Day#63)
 
