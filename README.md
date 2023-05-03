@@ -41,8 +41,8 @@ The tasks are divided in 14 weeks and the summary for each week task is:
 **Week-06**  (Day#36 to Day#42)
 - Advanced Numpy: https://www.youtube.com/watch?v=cYugp9IN1-Q&ab_channel=Enthought
 - Pandas Best practices: https://www.youtube.com/watch?v=zgbUk90aQ6A&ab_channel=PyData
-- Logistic Regression with Multiple Variables https://www.youtube.com/playlist?list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC (Video 21-30)
-- Introduction to Logistic Regression in Machine Learning: 
+- Logistic Regression with Multiple Variables: https://www.youtube.com/playlist?list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC (Video 21-30)
+- Introduction to Linear Regression in Machine Learning: 
 1. https://www.youtube.com/watch?v=zPG4NjIkCjc&ab_channel=statisticsfun
 2. https://www.youtube.com/watch?v=ctoCtba2BDY&ab_channel=Udacity
 3. https://www.youtube.com/playlist?list=PLJs7lEb1U5pYnrI0Wn4mzPmppVqwERL_4
