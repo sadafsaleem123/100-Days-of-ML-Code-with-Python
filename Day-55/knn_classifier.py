@@ -33,6 +33,7 @@ y = np.array(y)
 print(X.shape)
 print(y.shape)
 
+
 knn = svm.SVC()
 X_train, X_test, y_train, y_test =  train_test_split(X, y, test_size=0.2)
 knn.fit(X_train, y_train)
