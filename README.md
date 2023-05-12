@@ -59,6 +59,11 @@ The tasks are divided in 14 weeks and the summary for each week task is:
 - Practical ML with Sklearn: https://www.youtube.com/watch?v=pqNCD_5r0IU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=20&ab_channel=freeCodeCamp.org
 
 **Week-09**  (Day#57 to Day#63)
+- Introduction to Deep Learning:
+https://www.youtube.com/watch?v=7sB052Pz0sQ&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1&ab_channel=AlexanderAmini
+- Understanding Backprop in details:
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi  
+https://www.youtube.com/watch?v=i94OvYb6noo&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=5&ab_channel=AndrejKarpathy
 
 
 **Week-10**  (Day#64 to Day#70)
