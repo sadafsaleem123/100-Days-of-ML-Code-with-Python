@@ -59,7 +59,9 @@ https://www.youtube.com/watch?v=i94OvYb6noo&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31
 
 
 **Week-10**  (Day#64 to Day#70)
-
+- https://www.youtube.com/watch?v=iaSUYvmCekI (CNNs by MIT)
+- https://www.youtube.com/watch?v=JB8T_zN7ZC0&ab_channel=BrandonRohrer One of the most in-depth explanations of CNN on the internet   
+- https://www.youtube.com/watch?v=QvkQ1B3FBqA&ab_channel=AlexanderAmini Understanding Sequence Modeling by MIT
 
 **Week-11**  (Day#71 to Day#77)
 
