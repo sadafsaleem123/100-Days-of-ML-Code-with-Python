@@ -18,3 +18,12 @@ The esteemed IT team is in possession of the highly esteemed MySQL database, whi
 
 ### Setup of MySQL
 https://www.youtube.com/watch?v=WuBcTJnIuzo
+
+## Solution:
+The Mysql database contains comprehensive data on sales transactions, customers, products, and market information. My task involves analyzing this database and integrating it with power BI. Within power BI, I execute ETL and data cleansing procedures to prepare the data for the creation of our dashboard. Subsequently, I develop a robust dashboard that enables us to derive valuable sales insights for Atliq hardware business.
+
+![Dashboard 1](https://github.com/sadafsaleem123/100-Days-of-ML-Code-with-Python/blob/main/--%20Data%20Analysis%20Project/POWERBI%20DASHBOARD%201.png)
+
+![Dashboard 2](https://github.com/sadafsaleem123/100-Days-of-ML-Code-with-Python/blob/main/--%20Data%20Analysis%20Project/POWERBI%20DASHBOARD%202.png)
+
+![Dashboard 3](https://github.com/sadafsaleem123/100-Days-of-ML-Code-with-Python/blob/main/--%20Data%20Analysis%20Project/POWERBI%20DASHBOARD%203.png)
