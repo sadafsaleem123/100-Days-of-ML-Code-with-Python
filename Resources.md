@@ -64,6 +64,7 @@ https://www.youtube.com/watch?v=i94OvYb6noo&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31
 - https://www.youtube.com/watch?v=QvkQ1B3FBqA&ab_channel=AlexanderAmini Understanding Sequence Modeling by MIT
 
 **Week-11**  (Day#71 to Day#77)
+
 Object Detection and Localization: https://www.youtube.com/watch?v=GxZrEKZfW2o&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=8&ab_channel=AndrejKarpathy
 
 Text Generation using GPT:
